@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Thiag 👋
 
-<!--
-**ThiagSilvaDev/ThiagSilvaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer focused on building robust applications, designing clean APIs, and continuously refining my development workflow.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+* **Helpdesk System:** Building a scalable backend using **Java** and **Spring Boot**.
+* **Always Learning:** Deepening my knowledge in System Design, API architecture (REST/OpenAPI), best pratices, and studying mathematics (Calculus & Linear Algebra) to sharpen problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Tools
+* **Ecosystem:** Java, Spring Boot
+* **Concepts:** RESTful APIs, Security, Logging, Actuator, Testing
+* **My Setup:** Fedora Linux, JetBrains IntelliJ, Obsidian
+
+## 📈 GitHub Stats
+![Thiag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+
+---
+📫 **How to reach me:** ![mail me](https://www.linkedin.com/in/thiagsilvadev/)
