@@ -11,8 +11,5 @@ I'm a back-end developer focused on building robust applications, designing clea
 * **Concepts:** RESTful APIs, Security, Logging, Actuator, Testing
 * **My Setup:** Fedora Linux, JetBrains IntelliJ, Obsidian
 
-## 📈 GitHub Stats
-![Thiag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-
 ---
 📫 **How to reach me:** ![mail me](https://www.linkedin.com/in/thiagsilvadev/)
