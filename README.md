@@ -12,4 +12,4 @@ I'm a back-end developer focused on building robust applications, designing clea
 * **My Setup:** Fedora Linux, JetBrains IntelliJ, Obsidian
 
 ---
-📫 **How to reach me:** ![mail me](https://www.linkedin.com/in/thiagsilvadev/)
+📫 **How to reach me:** ![LinkedIn](https://www.linkedin.com/in/thiagsilvadev/)
