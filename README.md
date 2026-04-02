@@ -1,4 +1,4 @@
-# Hi there, I'm Thiag 👋
+# Hi there, I'm Thiago 👋
 
 I'm a back-end developer focused on building robust applications, designing clean APIs, and continuously refining my development workflow.
 
