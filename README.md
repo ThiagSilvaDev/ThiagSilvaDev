@@ -10,6 +10,3 @@ I'm a back-end developer focused on building robust applications, designing clea
 * **Ecosystem:** Java, Spring Boot
 * **Concepts:** RESTful APIs, Security, Logging, Actuator, Testing
 * **My Setup:** Fedora Linux, JetBrains IntelliJ, Obsidian
-
----
-📫 **How to reach me:** ![LinkedIn](https://www.linkedin.com/in/thiagsilvadev/)
